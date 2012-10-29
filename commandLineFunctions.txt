@@ -1,0 +1,7 @@
+//To run tests
+
+java myBoundedQueueTest.java
+
+//To run object class
+
+java myBoundedQueue.java
